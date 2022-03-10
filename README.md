@@ -1,1 +1,2 @@
-# X - SMK - C++
+# X - SMK 
+Dasar Pemrograman C++
